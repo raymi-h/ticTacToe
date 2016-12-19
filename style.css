@@ -1,0 +1,10 @@
+.symbol {
+	max-height:	33%;
+	max-width:	33%;
+}
+#board {
+	height:			500px;
+	background-image:	url("images/board.png");
+	background-size:	contain;
+	background-repeat:	no-repeat;
+}
